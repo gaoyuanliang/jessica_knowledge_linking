@@ -5,7 +5,7 @@ docker pull gaoyuanliang/jessica_knowledge_linking:1.0.1
 
 docker run -it \
 -m 10g \
--v /Users/Jim/Downloads/:/Downloads/ \
+-v /Users/liangyu/Downloads/:/Downloads/ \
 -p 4643:4643 \
 -p 6781:6781 \
 -p 9375:9000 \
