@@ -36,3 +36,7 @@ http://0.0.0.0:9375/
 http://0.0.0.0:4643/browser/
 
 password: neo4j1
+
+## contact
+
+I am opent for a data scientist/AI engineer job at UAE. Contact me by gaoyuanliang@outlook.com
