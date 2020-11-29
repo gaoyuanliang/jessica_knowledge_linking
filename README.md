@@ -1,4 +1,4 @@
-# jessica_knowledge_linking
+# Jessica's Knowledge Linking Engine
 
 ```bash
 docker pull gaoyuanliang/jessica_knowledge_linking:1.0.1
